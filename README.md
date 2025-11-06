@@ -100,7 +100,3 @@ adb shell settings put global http_proxy :0
 	•	Puedes usarlo junto a Burp Suite, mitmproxy, OWASP ZAP, etc.
 
 ⸻
-
----
-
-¿Quieres que te agregue al README una sección de **troubleshooting** específica para errores comunes de ADB (como “more than one device/emulator” o “device unauthorized”)?
